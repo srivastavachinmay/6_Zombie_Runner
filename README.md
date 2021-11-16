@@ -604,6 +604,7 @@ Create a battery pickup which restores the functionality of our flashlight.
 **After watching (learning outcomes)...**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Display the ammo for the currently wielded weapon.
 
 
@@ -629,6 +630,9 @@ Provide the player visual feedback for when they receive damage.
 **After watching (learning outcomes)...**
 
 Add props and polish your game to make a 5 minute wow.
+=======
+Display the ammo for the currently wielded weapon.
+>>>>>>> parent of ea2a9ef (51 Damage Received UI)
 =======
 Display the ammo for the currently wielded weapon.
 >>>>>>> parent of ea2a9ef (51 Damage Received UI)
